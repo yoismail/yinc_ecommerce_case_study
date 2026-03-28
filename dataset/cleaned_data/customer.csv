@@ -1,4 +1,4 @@
-Customer_ID,Customer_Name,Email,Phone_Number
+customer_id,customer_name,email,phone_number
 e0d6cb3c-c4b0-4cfe-8225-b65d094d2424,Dominic Buchanan,margaret97@example.com,259.603.6134
 fa3ca35a-5540-404b-a7eb-9001cdcbd840,Daniel Allen,angela55@example.com,+1-869-659-4272x982
 7ad4de53-e6d7-4cd3-99b8-13fb70fe7a34,Daniel Schmidt,wayne59@example.org,292.840.0975x724

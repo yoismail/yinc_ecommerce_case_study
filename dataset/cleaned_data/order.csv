@@ -1,4 +1,4 @@
-Order_ID,Customer_ID,Product_ID,Quantity,Total_Price,Order_Date
+order_id,customer_id,product_id,quantity,total_price,order_date
 e32af09a-b6ab-497e-af3a-331e4d4ed6e7,e0d6cb3c-c4b0-4cfe-8225-b65d094d2424,2ef6e8fa-6a36-4515-b1c2-a0a700abf386,2,501.14,2020-03-06 06:49:00
 86eb8859-14ab-4d4e-9267-c5826f4e0c8e,fa3ca35a-5540-404b-a7eb-9001cdcbd840,3ba38e01-f8e7-4af2-9246-87ef0961d4f5,6,1078.86,2020-07-31 07:09:00
 7379b560-8897-4623-92a2-523ddcdc43a1,7ad4de53-e6d7-4cd3-99b8-13fb70fe7a34,a58c53bd-a34b-4541-b926-bec9eb84cac2,7,4203.85,2021-05-11 04:33:00

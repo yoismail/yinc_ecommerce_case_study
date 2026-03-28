@@ -1,4 +1,4 @@
-Shipping_ID,Customer_ID,Shipping_Address,City,State,Country,Postal_Code
+shipping_id,customer_id,shipping_address,city,state,country,postal_code
 0,e0d6cb3c-c4b0-4cfe-8225-b65d094d2424,"PSC 2224, Box 2284
 APO AP 65880",Jordanborough,Arkansas,Kuwait,27879
 1,fa3ca35a-5540-404b-a7eb-9001cdcbd840,"83909 Johnson Mall

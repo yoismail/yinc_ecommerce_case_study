@@ -1,4 +1,4 @@
-Order_ID,Payment_Method,Transaction_Status
+order_id,payment_method,transaction_status
 e32af09a-b6ab-497e-af3a-331e4d4ed6e7,Debit Card,completed
 86eb8859-14ab-4d4e-9267-c5826f4e0c8e,Credit Card,completed
 7379b560-8897-4623-92a2-523ddcdc43a1,PayPal,pending
