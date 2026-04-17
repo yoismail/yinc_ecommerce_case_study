@@ -1,4 +1,7 @@
-📦 **YINC E-Commerce Case Study** — ETL Pipeline & PostgreSQL Data Warehouse
+
+---
+
+## 📦 YINC E-Commerce Case Study - ETL Pipeline & PostgreSQL Data Warehouse
 
 This project implements a complete **ETL (Extract, Transform, Load)** pipeline for an e-commerce dataset. It extracts raw CSV data, cleans and transforms it using **Pandas**, models it into relational tables, and loads it into a **PostgreSQL** database under a dedicated schema (`yinc`).
 
